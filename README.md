@@ -1,7 +1,7 @@
 # IIC1001
 aaaaaa
 Estoy aprendiendo a usar git :)
-
+Se recomienda encarecidamente leer el archivo critical.txt
 
 
 
