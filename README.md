@@ -1,6 +1,6 @@
 # IIC1001
 aaaaaa
-Estoy aprendiendo a usar git :)
+Estoy aprendiendo a usar git :) /n
 Se recomienda encarecidamente leer el archivo critical.txt
 
 
