@@ -1,7 +1,7 @@
-# IIC1001
-aaaaaa
-## Estoy aprendiendo a usar git :)
-### Se recomienda encarecidamente leer el archivo critical.txt
+# Repositorio de prueba  
+## **IIC1001 Algoritmos y Sistemas Computacionales**  
+### Esto ha sido creado con el fin de aplicar los conocimientos básicos sobre GIT y GITHUB adquiridos en el taller realizado el día 10/04/2023  
+Gonzalo Barrueto
 
 
 
