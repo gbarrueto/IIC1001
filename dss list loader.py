@@ -1,6 +1,6 @@
-import os
+from os import *
 
-files = os.listdir("E:\DESK\Fotos\RAW")
+files = listdir("E:\DESK\Fotos\RAW")
 
 files = files[6:68]
 files.pop(5)
